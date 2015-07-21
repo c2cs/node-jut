@@ -1,0 +1,53 @@
+# -- Generic / Misc ----------------------#
+
+.tmp
+pids
+logs
+results
+lib-cov
+*.seed
+*.log
+*.dat
+*.out
+*.pid
+*.gz
+
+# -- Node.js -----------------------------#
+
+node_modules
+
+# -- Bower.io --------------------------- #
+
+bower_components
+
+# -- NPM -------------------------------- #
+
+npm-debug.log
+test/test.log
+
+# -- Common Editors --------------------- #
+
+*~
+*#
+.DS_STORE
+.netbeans
+nbproject
+
+# -- IntelliJ / phpStorm / webStorm ----- #
+.idea
+*.iml
+.idea
+*.ipr
+*.iws
+.idea_modules/
+atlassian-ide-plugin.xml
+
+# -- Common Render / Output Dirs -------- #
+
+out/
+docs/
+dist/
+
+# -- Vagrant ---------------------------- #
+
+.vagrant
