@@ -19,6 +19,7 @@
     "request-promise": "^0.3.3",
     "tipe": "^0.1.12",
     "underscore": "^1.8.3",
+    "validate.js": "^0.8.0",
     "verror": "^1.6.0"
   },
   "devDependencies": {

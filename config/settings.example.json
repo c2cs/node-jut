@@ -1,0 +1,6 @@
+{
+	"engineHost"   : "data-engine-xxxxxxx.jutdata.io",
+	"enginePort"   : 3100,
+	"clientId"     : "_CLIENT_ID_HERE_",
+	"clientSecret" : "_CLIENT_SECRET_HERE_"
+}
